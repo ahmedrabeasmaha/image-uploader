@@ -1,7 +1,7 @@
 import {AfterViewInit, Component, OnInit} from '@angular/core';
 import {Router} from "@angular/router";
 import {LoadingService} from "../../services/loading/loading.service";
-import {environment} from "../../../environment/environment";
+import {environment} from "../../../environments/environment";
 
 @Component({
   selector: 'app-uploaded',
